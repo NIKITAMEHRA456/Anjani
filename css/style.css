@@ -765,7 +765,7 @@ footer span{
     /* carousel */
     .first,
     .second{
-        height: 55vh;
+        height: 60vh;
     }
 
     .first .content,
@@ -812,7 +812,7 @@ footer span{
     /* carousel */
     .first .content,
     .second .content{
-        padding-top: 10rem;
+        padding-top: 7rem;
     }
 
     .first .content h1,
