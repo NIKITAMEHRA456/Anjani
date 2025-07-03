@@ -825,6 +825,15 @@ footer span{
         font-size:.79rem;
     }
 
+    /* section-4 */
+    .section-4 .bottom-4 .content-4-more{
+        margin: 2rem 0rem;
+    }
+
+    .section-4 .bottom-4-1 .content-4{
+        margin-bottom: 2rem;
+    }
+
 
     /* section-5 */
     .section-5 .left-5 .content-5{
