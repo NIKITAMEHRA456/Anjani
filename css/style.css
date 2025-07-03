@@ -809,6 +809,17 @@ footer span{
 /* media query starts 420px */
 @media only screen and (max-width:420px) 
 {
+    .navbar{
+        padding-top: 7rem;
+        padding-bottom: 7rem;
+    }
+
+    .navbar img{
+        width: 100%;
+    }
+
+
+    
     /* carousel */
     .first .content,
     .second .content{
