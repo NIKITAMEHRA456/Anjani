@@ -825,6 +825,12 @@ footer span{
         font-size:.79rem;
     }
 
+
+    /* section-3 */
+    .section-3 .right-3 img{
+        min-height: 450px;
+    }
+
     /* section-4 */
     .section-4 .bottom-4 .content-4-more{
         margin: 2rem 0rem;
