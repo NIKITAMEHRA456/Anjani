@@ -807,7 +807,8 @@ footer span{
     }
 
     .section-1 .right-2 .middle{
-        margin: 2rem 0rem !important;
+        padding-top: 2rem!important;
+        padding-bottom:2rem !important;
     }
 
     /* section-8 */
