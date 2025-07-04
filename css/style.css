@@ -199,6 +199,15 @@ html{
     margin-left: 1.4rem;
 }
 
+.section-1 .right-2 {
+    display: none;
+}
+
+
+.section-1 .right-2 img{
+    width: 100%;
+}
+
 /* image */
 .section-1 img{
     width: 100%;
@@ -787,6 +796,14 @@ footer span{
 
     .section-1 .right-1{
         margin-top: 2rem;
+    }
+
+    .section-1 .right-1{
+        display: none;
+    }
+
+    .section-1 .right-2{
+        display: block;  
     }
 
 
